@@ -1,0 +1,10 @@
+.pagination.pg-blue .page-item.active .page-link {
+    background-color: #ff0022;
+    &:hover {
+        background-color: #21f205;
+    }
+}
+
+.click {
+    cursor: pointer;
+}
